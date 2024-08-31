@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Isabella Leroux <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr/>
-<h4 align="center">I'm a second-year Computer Science student at UBC with a passion for coding and learning new technologies! This Github profile is where I share my latest projects, which range from personal projects to hackathon submissions.
+<h4 align="center">I'm a fourth-year Computer Science student at UBC with a passion for coding and learning new technologies! This Github profile is where I share my latest projects, from personal projects to hackathon submissions.
 </h4>
 
 ## 🛠️ My Skills
